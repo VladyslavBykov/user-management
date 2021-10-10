@@ -1,0 +1,35 @@
+@import "~antd/dist/antd.css";
+
+.Employees_Heading {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Employees_Actions_Container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ManageUsers_FormControl {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.ManageUsers_FormLabel {
+  min-width: 150px;
+}
+.ManageUsers_FullWidth {
+  width: 100%;
+}
+.ManageUser_FormError {
+  color: red;
+}
+.ManageUsers_ButtonBar {
+  display: flex;
+  justify-content: flex-end;
+}
+.ManageUsers_Button {
+  margin-left: 10px;
+}
